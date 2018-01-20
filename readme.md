@@ -1,0 +1,1 @@
+Email validation through DB educational assignment at Coding Dojo

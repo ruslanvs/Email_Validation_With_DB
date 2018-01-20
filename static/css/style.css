@@ -1,0 +1,26 @@
+#wrapper{
+    margin: 50px;
+    padding: 50px;
+    width: 880px;
+    box-sizing: border-box;
+    border: 5px solid black;
+    border-radius: 10px;
+}
+
+label{
+    display: inline-block;
+    margin: 5px 0px 0px 0px;
+    width: 50px;
+}
+
+.errorMessage{
+    color: red;
+}
+
+.successMessage{
+    color: green;
+}
+
+#submitButton{
+    margin: 10px 0px 0px 50px;
+}
